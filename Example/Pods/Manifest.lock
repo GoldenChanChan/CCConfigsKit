@@ -1,0 +1,23 @@
+PODS:
+  - CCConfigsKit (1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CCConfigsKit (from `../`)
+  - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CCConfigsKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CCConfigsKit: c2f9329388e604bc31b7e965d48be8a370b76f85
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 02308460a61dd7fd1001f9b7474f607678df5665
+
+COCOAPODS: 1.4.0

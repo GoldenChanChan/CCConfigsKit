@@ -1,0 +1,6 @@
+framework module Pods_CCConfigsKit_Example {
+  umbrella header "Pods-CCConfigsKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
